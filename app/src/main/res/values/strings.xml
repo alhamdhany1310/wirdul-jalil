@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Al Wirdul Jalil</string>
+
+    <!-- TODO: Remove or change this placeholder text ca-app-pub-6617430244106452/8961703608-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status_on">Kancanta Streaming : <b>ON</b>; Program:<b><i>-</i></b>; Durasi:<b><i>-</i></b></string>
+    <string name="status_off">Kancanta Streaming : <b>OFF</b>; Program:<b><i>-</i></b>; Durasi:<b><i>-</i></b></string>
+    <string name="about">Assalamu\'alaikum Warahmatullahi Wabaraokatuh \n Aplikasi ini di buat untuk memudahkan jam\'ah Al Mukhtariah Al Islamiah dalam membaca Al Wirdul Jalil dan lebih mudah diakses karena sudah dalam versi digital, apikasi ini juga di lengkapi dengan jadwal sholat \n semoga aplikasi ini bisa bermanfaat  </string>
+    <string name="title">masih belum di isi nih sejarahnya sabar ya.</string>
+    <string name="isisejarah">sejarahnya masih di terulusuri nih. insyalah developernya akan mencari tau sejarahnya secepetanya.</string>
+    <!--    <string name="banner_id">ca-app-pub-6617430244106452/8961703608</string>-->
+
+    <string name="title_location_permission">Akses Lokasi Anda</string>
+    <string name="text_location_permission">apakah anda mengizinkan ?</string>
+    <string name="ok">ok</string>
+    <string-array name="kabupaten">
+        <item>Lombok Timur</item>
+        <item>Lombok Barat</item>
+        <item>Lombok Utara</item>
+        <item>Sumbawa</item>
+        <item>Dompu</item>
+        <item>Bali</item>
+        <item>Jakarta</item>
+        <item>Kalimantan Utara</item>
+        <item>Kalimantan Selatan</item>
+        <item>Kalimantan Barat</item>
+        <item>Kalimantan Timur</item>
+        <item>Nusa Tenggara Timur</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+        <item>Yogyakarta</item>
+        <item>Riau</item>
+        <item>Sumatera Utara</item>
+        <item>Sumatera Selatan</item>
+        <item>Sumatera Timur</item>
+        <item>SUmatera Barat</item>
+        <item>Papua</item>
+
+        <item></item>
+    </string-array>
+
+</resources>
